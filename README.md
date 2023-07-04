@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django Framework from Meta BackEnd Developer**
 
-- 👨‍💻 All of my projects are available at [ptharrish.github.io/portfolio/](ptharrish.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at (ptharrish.github.io/portfolio/)
 
 - 📫 How to reach me **harrishpt@gmail.com**
 
