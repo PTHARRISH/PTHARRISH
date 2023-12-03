@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Harrish P T</h1>
 <h3 align="center">A passionate Backend Python developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptharrish&label=Profile%20views&color=0e75b6&style=flat" alt="ptharrish" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptharrish&label=Profile%20views&color=0e75b6&style=flat" alt="ptharrish" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptharrish" alt="ptharrish" /></a> </p>
 
-- 🔭 I’m currently working on [Linear Approximation Computational Complexity With Multivariant Correlation](https://github.com/PTHARRISH/Carbon-emission)
+- 🔭 I’m currently working on [Python Coding Challenges](https://github.com/PTHARRISH/Python-Notes)
 
 - 🌱 I’m currently learning **Django Framework from Meta BackEnd Developer**
 
