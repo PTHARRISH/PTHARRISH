@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptharrish" alt="ptharrish" /></a> </p>
 
-- 🔭 I’m currently working on [Python Coding Challenges](https://github.com/PTHARRISH/Python-Notes)
+- 🔭 I’m currently working on [Django](https://github.com/PTHARRISH//Django)
 
 - 🌱 I’m currently learning **Django Framework from Meta BackEnd Developer**
 
