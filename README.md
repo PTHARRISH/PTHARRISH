@@ -57,6 +57,10 @@
 
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>📊 GitHub Stats:</h2>
+
+<div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -74,4 +78,4 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptharrish&show_icons=true&locale=en&layout=compact" alt="ptharrish" /></p>
 </td>
 </tr>
-</table>
+</table></div>
