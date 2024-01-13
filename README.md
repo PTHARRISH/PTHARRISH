@@ -1,10 +1,14 @@
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Harrish P T</h1>
 <h3 align="center">A passionate Backend Python developer.</h3>
-
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptharrish&label=Profile%20views&color=0e75b6&style=flat" alt="ptharrish" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptharrish" alt="ptharrish" /></a> </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PTHARRISH&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on [Django](https://github.com/PTHARRISH//Django)
 
@@ -16,11 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harrishpt" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="harrishpt" height="30" width="40" /></a>
-</p>
+ <a href="https://www.linkedin.com/in/harrishpt/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a></p>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="30%">
 
 
 
@@ -33,7 +38,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 
 
@@ -45,15 +50,28 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+
 </div>
 
 </td></tr></table>  
 
-<br/>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptharrish&show_icons=true&locale=en&layout=compact" alt="ptharrish" /></p>
+<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td valign="top" width="50%">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptharrish&show_icons=true&locale=en" alt="ptharrish" /></p>
-
+</td>
+<td valign="top" width="50%">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ptharrish&" alt="ptharrish" /></p>
-
+</td>
+</tr>
+<tr>
+  
+  <td valign="top" height="30%" width="30%">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptharrish&show_icons=true&locale=en&layout=compact" alt="ptharrish" /></p>
+</td>
+</tr>
+</table>
