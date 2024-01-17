@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Django](https://github.com/PTHARRISH//Django)
 
-- 🌱 I’m currently learning **Django Framework from Meta BackEnd Developer**
+- 🌱 I’m currently learning **Meta BackEnd Developer**
 
 - 👨‍💻 All of my projects are available at [https://ptharrish.github.io/portfolio/](https://ptharrish.github.io/portfolio/)
 
