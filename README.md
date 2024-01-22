@@ -63,11 +63,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <table>
 <tr>
+  
 <td valign="top" width="50%">
+  
+![Leetcode Stats](https://leetcard.jacoblin.cool/HarrishPT?theme=light)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptharrish&show_icons=true&locale=en" alt="ptharrish" /></p>
 </td>
-
 
 <td valign="top" width="50%">
 
@@ -76,10 +77,10 @@
 </tr>
 <tr>
 <td valign="top" width="50%">
-  
-![Leetcode Stats](https://leetcard.jacoblin.cool/HarrishPT?theme=light)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptharrish&show_icons=true&locale=en" alt="ptharrish" /></p>
 </td>
+
   
   <td valign="top" height="30%" width="30%">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptharrish&show_icons=true&locale=en&layout=compact" alt="ptharrish" /></p>
