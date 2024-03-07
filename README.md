@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Meta BackEnd Developer**
 
-<!-- - 👨‍💻 All of my projects are available at [https://ptharrish.github.io/portfolio/](https://ptharrish.github.io/portfolio/)-->
+ 👨‍💻 All of my projects are available at [https://ptharrish.github.io/portfolio/](https://ptharrish.github.io/portfolio/)
 
 - 📫 How to reach me **harrishpt@gmail.com**
 
