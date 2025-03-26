@@ -10,7 +10,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PTHARRISH&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [Django](https://github.com/PTHARRISH//Django)
+- 🔭 I’m currently working on [Little Lemon API](https://github.com/PTHARRISH/Little-Lemon-API)
 
 - 🌱 I’m currently learning **Meta BackEnd Developer**
 
