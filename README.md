@@ -10,11 +10,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PTHARRISH&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [Fast API](https://github.com/PTHARRISH/Fastapi)
+- 🔭 I’m currently working on [GFG-160](https://github.com/PTHARRISH/GFG-160)
 
 - 🌱 I’m currently learning **AWS Cloud Practitioner Certificate (Geeks For Geeks)**
 
-- 👨‍💻 All of my projects are available at [https://ptharrish.github.io/portfolio/](https://ptharrish.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://ptharrish.github.io/me/](https://ptharrish.github.io/me/)
 
 - 📫 How to reach me **harrishpt@gmail.com**
 
