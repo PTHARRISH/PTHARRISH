@@ -3,8 +3,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Harrish P T</h1>
+
 **Django Backend Developer | 1.4+ Yrs Exp | Immediate Joiner**
-<h3 align="center">A passionate Python Backend Developer.</h3>
+
+<!--<h3 align="center">A passionate Python Backend Developer.</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptharrish&label=Profile%20views&color=0e75b6&style=flat" alt="ptharrish" /> </p>-->
 
 
