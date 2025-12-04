@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Harrish P T</h1>
+**Django Backend Developer | 1.4+ Yrs Exp | Immediate Joiner**
 <h3 align="center">A passionate Python Backend Developer.</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptharrish&label=Profile%20views&color=0e75b6&style=flat" alt="ptharrish" /> </p>-->
 
@@ -10,11 +11,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PTHARRISH&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [GFG-160](https://github.com/PTHARRISH/GFG-160)
+- 🔭 I’m currently working on [RO Purifier]([https://github.com/PTHARRISH/RO-Purifier])
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner Certificate (Geeks For Geeks)**
+- 🌱 I’m currently looking for **Python/Django Developer**
 
 - 👨‍💻 All of my projects are available at [https://ptharrish.github.io/me/](https://ptharrish.github.io/me/)
+
+- 🚀 **Open to Python/Django roles in Chennai/Bengaluru/remote.**
 
 - 📫 How to reach me **harrishpt@gmail.com**
 
